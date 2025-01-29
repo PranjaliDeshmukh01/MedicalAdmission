@@ -3,8 +3,8 @@ import S3 from "aws-sdk/clients/s3";
 
 AWS.config.update({
   region: "us-east-1",
-  accessKeyId: "AKIA55C6FFQOD5WKBVXQ",
-  secretAccessKey: "9Kr32RnQx2V7uo4JSLzeAZdf3snP8SznNEtDPVju",
+  accessKeyId: "YOUR_ACCESS_KEY",
+  secretAccessKey: "YOUR_SECRET_KEY",
 });
 
 const myBucket = new S3({
