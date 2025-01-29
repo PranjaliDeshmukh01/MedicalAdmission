@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-actualwisemedical-dev-48140-authRole",
+      "UnauthRoleArn": "arn:aws:iam::955827694620:role/amplify-actualwisemedical-dev-48140-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::955827694620:role/amplify-actualwisemedical-dev-48140-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-actualwisemedical-dev-48140-deployment",
+      "UnauthRoleName": "amplify-actualwisemedical-dev-48140-unauthRole",
+      "StackName": "amplify-actualwisemedical-dev-48140",
+      "StackId": "arn:aws:cloudformation:us-east-1:955827694620:stack/amplify-actualwisemedical-dev-48140/1c7f6c40-d6cc-11ef-b02d-0afff38e4ab7",
+      "AmplifyAppId": "d14t2nqrl3xp4"
+    },
+    "categories": {
+      "auth": {
+        "actualwisemedical50142089": {}
+      },
+      "function": {
+        "S3Triggerc99c551b": {
+          "deploymentBucketName": "amplify-actualwisemedical-dev-48140-deployment",
+          "s3Key": "amplify-builds/S3Triggerc99c551b-4b2b6e6f746841436564-build.zip"
+        }
+      },
+      "storage": {
+        "fileuploadPranjali": {}
+      }
+    }
+  }
+}

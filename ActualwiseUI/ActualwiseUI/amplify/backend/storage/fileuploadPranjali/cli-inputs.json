@@ -1,0 +1,14 @@
+{
+  "resourceName": "fileuploadPranjali",
+  "policyUUID": "01386ddc",
+  "bucketName": "actualwise-bucket-store",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerc99c551b",
+  "groupAccess": {}
+}
